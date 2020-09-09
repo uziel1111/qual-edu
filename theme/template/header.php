@@ -66,7 +66,7 @@ $url = 'http://'.$_SERVER['SERVER_NAME'].'/qual-edu/';
                             <li class="nav-item"><a href="./equipo.php">Equipo</a></li>
                             <li class="nav-item"><a href="./clientes.php">Clientes</a></li>
                             <li class="nav-item"><a href="./contacto.php">Contacto</a></li>
-                            <li class="nav-item"><a href="./proteccion_de_datos.php">protección de datos</a></li>
+                            <li class="nav-item"><a href="./proteccion_de_datos.php">AVISO DE PRIVACIDAD</a></li>
 <!--                            <li class="nav-item dropdown submenu">
                                 <a href="#blog" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
                                 <i class="fa fa-chevron-down click_btn" aria-hidden="true"></i>
