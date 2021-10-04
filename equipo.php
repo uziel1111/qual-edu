@@ -76,7 +76,7 @@ entrega al 100% en cada proyecto.</p>
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col">
                         <div class="works_right_content">
                             <div class="content_title purple_content">
@@ -87,7 +87,7 @@ Autónoma de Puebla (BUAP), su trabajo es altamente eficiente y le gusta partici
 que demanden un reto y aprendizaje constante.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="row">
                     <div class="col">
                         <div class="works_right_content">
